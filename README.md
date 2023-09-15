@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://count.getloli.com/get/@RoyH0427.github.readme?theme=rule34)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%88%91%E6%98%AF%E8%90%8C%E6%96%B0%E5%88%AB%E6%89%93%E6%88%91)](https://git.io/typing-svg)
