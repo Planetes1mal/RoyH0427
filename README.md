@@ -5,7 +5,7 @@
 ## Platforms
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/iPhone-13-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iPad-Air-5-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPad_Air-5-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 [![待秋雪时相逢.'s Github Stats](https://github-readme-stats.vercel.app/api?username=RoyH0427&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
