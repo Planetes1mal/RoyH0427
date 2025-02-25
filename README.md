@@ -19,8 +19,7 @@
 
 ### Status
 [![Planetes1mal.'s Github Stats](https://github-readme-stats.vercel.app/api?username=Planetes1mal&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://stats.justsong.cn/api/leetcode?username=clever-shamirexf&cn=true)
-![](https://stats.justsong.cn/api/bilibili/?id=349741555)
+
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,pr,c,cpp,python,discord,instagram,idea,git" /><br>
 
