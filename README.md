@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/Notion-Note-000000?style=flat-square&logo=Notion&labelColor=ffffff&logoColor=000000)](https://www.notion.so/zh-cn)
 
 ### Status
-[![待秋雪时相逢.'s Github Stats](https://github-readme-stats.vercel.app/api?username=RoyH0427&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Planetes1mal.'s Github Stats](https://github-readme-stats.vercel.app/api?username=Planetes1mal&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://stats.justsong.cn/api/leetcode?username=clever-shamirexf&cn=true)
 ![](https://stats.justsong.cn/api/bilibili/?id=349741555)
 <!-- programming tool icon 编程工具图标 -->
